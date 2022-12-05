@@ -1,0 +1,16 @@
+D:\DS\Contrato\bin\Debug\net5.0\Financias.exe
+D:\DS\Contrato\bin\Debug\net5.0\Financias.deps.json
+D:\DS\Contrato\bin\Debug\net5.0\Financias.runtimeconfig.json
+D:\DS\Contrato\bin\Debug\net5.0\Financias.runtimeconfig.dev.json
+D:\DS\Contrato\bin\Debug\net5.0\Financias.dll
+D:\DS\Contrato\bin\Debug\net5.0\Financias.pdb
+D:\DS\Contrato\obj\Debug\net5.0\Financias.csproj.AssemblyReference.cache
+D:\DS\Contrato\obj\Debug\net5.0\Financias.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS\Contrato\obj\Debug\net5.0\Financias.AssemblyInfoInputs.cache
+D:\DS\Contrato\obj\Debug\net5.0\Financias.AssemblyInfo.cs
+D:\DS\Contrato\obj\Debug\net5.0\Financias.csproj.CoreCompileInputs.cache
+D:\DS\Contrato\obj\Debug\net5.0\Financias.dll
+D:\DS\Contrato\obj\Debug\net5.0\refint\Financias.dll
+D:\DS\Contrato\obj\Debug\net5.0\Financias.pdb
+D:\DS\Contrato\obj\Debug\net5.0\Financias.genruntimeconfig.cache
+D:\DS\Contrato\obj\Debug\net5.0\ref\Financias.dll
